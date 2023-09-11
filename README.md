@@ -98,7 +98,7 @@
 <details>
 <summary><b>  Statistics  </b></summary>
 <div align="center">
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=theQuiltingRiverOtter)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=theQuiltingRiverOtter&theme=monokai)](https://github.com/theQuiltingRiverOtter/github-profile-trophy)
 

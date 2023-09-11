@@ -1,3 +1,5 @@
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=theQuiltingRiverOtter)](https://github.com/theQuiltingRiverOtter/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theQuiltingRiverOtter)](https://git.io/streak-stats)

@@ -56,19 +56,19 @@
       <td> WIP: This application is intended to provide prompts for different journaling RPGs. In the end, it should have several games, log-in functions, and back-end storage</td>
     </tr>
      <tr>
-      <td><b><a href="https://thequiltingriverotter.github.io/mathMessage/"></a> mathMessage </b></td>
+      <td><b><a href="https://github.com/theQuiltingRiverOtter/mathMessage">mathMessage</a>  </b></td>
        <td><a href="https://thequiltingriverotter.github.io/mathMessage/">Math Message</a>
       <td> React and Javascript</td>
       <td> Converts a message into a series of math problems and provides a legend to figure out what the message is</td>
     </tr>
     <tr>
-      <td><b><a href="https://github.com/theQuiltingRiverOtter/PoetryMemorization"></a> PoetryMemorization </b></td>
+      <td><b><a href="https://github.com/theQuiltingRiverOtter/PoetryMemorization">PoetryMemorization</a>  </b></td>
       <td><a href="https://thequiltingriverotter.github.io/PoetryMemorization/"> Poetry Memorization</a></td>
       <td>Javascript, HTML, CSS</td>
       <td> WIP: A website to help people memorize poetry </td>
     </tr>
   	<tr>
-      <td><b><a href="https://github.com/theQuiltingRiverOtter/TOPcalculator"></a> Calculator </b></td>
+      <td><b><a href="https://github.com/theQuiltingRiverOtter/TOPcalculator">Calculator</a>  </b></td>
       <td><a href="https://thequiltingriverotter.github.io/TOPcalculator/">TOP Calculator<a/></td>
       <td> HTML, CSS, Javascript</td>
       <td>A calculator built as a part of The Odin Project Fundaments Course</td>

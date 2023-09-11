@@ -75,19 +75,19 @@
       <td>A calculator built as a part of The Odin Project Fundaments Course</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/theQuiltingRiverOtter/etch-a-sketch">Etch a Sketch</a></td>
+      <td><b><a href="https://github.com/theQuiltingRiverOtter/etch-a-sketch">Etch a Sketch</a></b></td>
       <td><a href="https://thequiltingriverotter.github.io/etch-a-sketch/">Etch a Sketch</a></td>
       <td>HTML, CSS, Javascript</td>
       <td>An Etcha Sketch project made for The Odin Project</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/theQuiltingRiverOtter/rock-paper-scissors">Rock, Paper, Scissors</a></td>
+      <td><b><a href="https://github.com/theQuiltingRiverOtter/rock-paper-scissors">Rock, Paper, Scissors</a></b></td>
       <td><a href="https://thequiltingriverotter.github.io/rock-paper-scissors/">Rock, Paper, Scissors</a></td>
       <td>HTML, CSS, Javascript</td>
       <td>A Rock, Paper, Scissors game made for The Odin Project</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/theQuiltingRiverOtter/PokeDex">PokeDex</a></td>
+      <td><b><a href="https://github.com/theQuiltingRiverOtter/PokeDex">PokeDex</a></b></td>
       <td></td>
       <td>Express, EJS, CSS, Javascript</td>
       <td>A project to show Pokemon built to practice APIs</td>

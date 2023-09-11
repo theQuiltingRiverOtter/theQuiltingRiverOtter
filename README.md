@@ -1,5 +1,13 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=theQuiltingRiverOtter)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
 - My name is Megan Buck. I am an aspiring web developer/software engineer about to retire from the US Air Force. 
 
 - I am currently studying web development through a Udemy course "Colt Steele's Web Development Bootcamp 2021" and "The Odin Project." I am about to begin a coding bootcamp with Code Platoon. My repositories are a combination of personal projects and projects built for The Odin Project and the Udemy course. I will improve them as I learn more about web development.

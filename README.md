@@ -19,8 +19,8 @@
 
 
 <details>
-<summary><b> Languages and Tools :point_right: </b></summary>
-<h3 align='left'>Languages and Tools:</h3>
+<summary><b> Languages and Tools  </b></summary>
+  
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -32,7 +32,7 @@
 </details>
 
 <details>
-  <summary><b> My Projects :point_right: </b></summary>
+  <summary><b> My Projects </b></summary>
   <table>
   <thead>
     <tr>
@@ -99,6 +99,7 @@
 <details>
 <summary><b>  Statistics  </b></summary>
 <div align="center">
+  
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=theQuiltingRiverOtter)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=theQuiltingRiverOtter&theme=monokai)](https://github.com/theQuiltingRiverOtter/github-profile-trophy)

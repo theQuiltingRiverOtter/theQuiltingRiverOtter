@@ -1,6 +1,8 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=theQuiltingRiverOtter)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=theQuiltingRiverOtter)](https://github.com/theQuiltingRiverOtter/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theQuiltingRiverOtter)](https://git.io/streak-stats)
+
+[![Megan's GitHub stats](https://github-readme-stats.vercel.app/api?username=theQuiltingRiverOtter)](https://github.com/theQuiltingRiverOtter/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

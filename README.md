@@ -1,4 +1,5 @@
-### Hi there, my name is Megan
+<h1> Hi there, my name is Megan</h1>
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GYW1mlH5CRoAAAAi/gabby-knitting.gif">
 

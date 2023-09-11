@@ -2,15 +2,13 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=theQuiltingRiverOtter)](https://github.com/theQuiltingRiverOtter/github-profile-trophy)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theQuiltingRiverOtter)](https://git.io/streak-stats)
-
-[![Megan's GitHub stats](https://github-readme-stats.vercel.app/api?username=theQuiltingRiverOtter)](https://github.com/theQuiltingRiverOtter/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/megan-buck-63112327b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 
 </p>
+Here are the techs I'm most familiar with:
 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 	![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)

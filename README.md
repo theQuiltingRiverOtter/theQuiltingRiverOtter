@@ -1,21 +1,24 @@
-
+### Hi there, my name is Megan
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GYW1mlH5CRoAAAAi/gabby-knitting.gif">
 
-<h1 align='left'>Hi</h1>
-<p align='left'>My name is Megan Buck. I am an aspiring web developer/software engineer about to retire from the US Air Force. </p>
-<p align='left'>I am about to begin a coding bootcamp with Code Platoon. However, I have several projects that I have already completed through Udemy courses, The Odin Project, and personal projects</p>
-<p align='left'>I hope to obtain a job as a junior web developer near Augusta, GA within the next year. I would prefer to work in back-end development, or in front-end development with a a emphasis on Javascript. </p>
+## I'm an aspiring web developer, veteran, and mother
+- I'm currently working on a full-stack journaling RPG application
+- I'm currently learning Python object oriented programming
+- I'm about to start a coding bootcamp with Code Platoon
+- I'm looking to collaborate with other content creators
+- 2023 Goals: Contribute to my first open source project
+- Fun Fact: I love to knit, crochet, and make quilts
+  
 
-
-<h3 align="left">Connect with me:</h3>
+# Connect with Me:
 <p align="left">
 <a href="www.linkedin.com/in/megan-buck-63112327b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-
 </p>
-<h3 align='left'>Here are the techs I'm most familiar with:</h3>
 
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+## Languages and Tools:
+
+
 	![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

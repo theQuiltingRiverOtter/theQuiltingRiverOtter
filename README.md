@@ -2,6 +2,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=theQuiltingRiverOtter)](https://github.com/theQuiltingRiverOtter/github-profile-trophy)
 
+  <img align="right" alt="Coding" width="400" src="https://media.tenor.com/X8YEnnCstNkAAAAi/otter-surprise.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

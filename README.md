@@ -1,8 +1,6 @@
 
-<img alt='banner' src="">
-
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-<img align="right" alt="Coding" width="400" src="https://lifelonglearningwithot.files.wordpress.com/2016/01/computer-otter.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GYW1mlH5CRoAAAAi/gabby-knitting.gif">
 
 <h1 align='left'>Hi</h1>
 <p align='left'>My name is Megan Buck. I am an aspiring web developer/software engineer about to retire from the US Air Force. </p>

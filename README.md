@@ -36,31 +36,61 @@
   <thead>
     <tr>
       <th>Project Name</th>
+      <th>Live Site</th>
       <th>Skills Used</th>
       <th>Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><b><a href="">Three Sided Flash Card</a> </b></td>
-      <td></td>
-      <td></td>
+      <td><b><a href="https://github.com/theQuiltingRiverOtter/Chinese-Flashcards">Chinese Flash Card</a> </b></td>
+      <td><a href="https://thequiltingriverotter.github.io/Chinese-Flashcards/">Chinese Flash Cards</a></td>
+      <td> HTML, CSS, Javascript</td>
+      <td> WIP: This was built to replace the traditional two-sided flash card applications because they are inconvenient for 
+        languages that use characters such as Chinese or Japanse</td>
     </tr>
      <tr>
-      <td><b><a href=""></a> </b></td>
-      <td></td>
-      <td></td>
+      <td><b><a href="https://github.com/theQuiltingRiverOtter/journalRPG"></a> Full Stack Journal RPG  </b></td>
+      <td>Not deployed yet, here is example sight without back-end<a href="https://thequiltingriverotter.github.io/AloneAmongTheStars/">Alone Among the Stars</a></td>
+      <td> Express, EJS, Material Framework, Javascript</td>
+      <td> WIP: This application is intended to provide prompts for different journaling RPGs. In the end, it should have several games, log-in functions, and back-end storage</td>
+    </tr>
+     <tr>
+      <td><b><a href="https://thequiltingriverotter.github.io/mathMessage/"></a> mathMessage </b></td>
+       <td><a href="https://thequiltingriverotter.github.io/mathMessage/">Math Message</a>
+      <td> React and Javascript</td>
+      <td> Converts a message into a series of math problems and provides a legend to figure out what the message is</td>
     </tr>
     <tr>
-      <td><b><a href=""></a> </b></td>
-      <td></td>
-      <td></td>
+      <td><b><a href="https://github.com/theQuiltingRiverOtter/PoetryMemorization"></a> PoetryMemorization </b></td>
+      <td><a href="https://thequiltingriverotter.github.io/PoetryMemorization/"> Poetry Memorization</a></td>
+      <td>Javascript, HTML, CSS</td>
+      <td> WIP: A website to help people memorize poetry </td>
     </tr>
   	<tr>
-      <td><b><a href=""></a> </b></td>
-      <td></td>
-      <td></td>
+      <td><b><a href="https://github.com/theQuiltingRiverOtter/TOPcalculator"></a> Calculator </b></td>
+      <td><a href="https://thequiltingriverotter.github.io/TOPcalculator/">TOP Calculator<a/></td>
+      <td> HTML, CSS, Javascript</td>
+      <td>A calculator built as a part of The Odin Project Fundaments Course</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/theQuiltingRiverOtter/etch-a-sketch">Etch a Sketch</a></td>
+      <td><a href="https://thequiltingriverotter.github.io/etch-a-sketch/">Etch a Sketch</a></td>
+      <td>HTML, CSS, Javascript</td>
+      <td>An Etcha Sketch project made for The Odin Project</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/theQuiltingRiverOtter/rock-paper-scissors">Rock, Paper, Scissors</a></td>
+      <td><a href="https://thequiltingriverotter.github.io/rock-paper-scissors/">Rock, Paper, Scissors</a></td>
+      <td>HTML, CSS, Javascript</td>
+      <td>A Rock, Paper, Scissors game made for The Odin Project</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/theQuiltingRiverOtter/PokeDex">PokeDex</a></td>
+      <td></td>
+      <td>Express, EJS, CSS, Javascript</td>
+      <td>A project to show Pokemon built to practice APIs</td>
+    </tr>        
   </tbody>
   </table>
 </details>

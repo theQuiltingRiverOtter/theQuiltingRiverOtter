@@ -52,7 +52,7 @@
     </tr>
      <tr>
       <td><b><a href="https://github.com/theQuiltingRiverOtter/journalRPG">Full Stack Journal RPG </a>  </b></td>
-      <td>Not deployed yet, here is example sight without back-end<a href="https://thequiltingriverotter.github.io/AloneAmongTheStars/">Alone Among the Stars</a></td>
+      <td>Not deployed yet, here is example site without back-end<a href="https://thequiltingriverotter.github.io/AloneAmongTheStars/">Alone Among the Stars</a></td>
       <td> Express, EJS, Material Framework, Javascript</td>
       <td> WIP: This application is intended to provide prompts for different journaling RPGs. In the end, it should have several games, log-in functions, and back-end storage</td>
     </tr>

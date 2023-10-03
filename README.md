@@ -5,8 +5,8 @@
 
 ## I'm an aspiring web developer, veteran, and mother
 - 📓 I'm currently working on a full-stack [journalRPG](https://github.com/theQuiltingRiverOtter/journalRPG) application
-- 🐍 I'm currently learning Python object oriented programming
-- 💻 I'm about to start a coding bootcamp with Code Platoon 
+- 🐍 I'm currently learning object oriented programming
+- 💻 I'm in week 1 of the Code Platoon bootcamp - Victor Platoon 
 - 🤝 I'm looking to collaborate with other content creators
 - 📆 2023 Goals: Contribute to my first open source project
 - 🧶 Fun Fact: I love to knit, crochet, and make quilts

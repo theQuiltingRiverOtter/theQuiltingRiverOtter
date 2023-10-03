@@ -91,7 +91,23 @@
       <td></td>
       <td>Express, EJS, CSS, Javascript</td>
       <td>A project to show Pokemon built to practice APIs</td>
-    </tr>        
+    </tr>  
+   <tr>
+      <td><b><a href="https://github.com/theQuiltingRiverOtter/card_games">Card Games</a></b></td>
+      <td></td>
+      <td>Python</td>
+      <td> WIP: Blackjack game built to practice OOP, will include further card and dice games at later date </td>
+    </tr>   
+   <tr>
+      <td><b><a href="">Poetry Memorization - Python Console Application</a></b></td>
+      <td></td>
+      <td>Python</td>
+      <td>Poetry memorization built to practice regex, files, and classes</td>
+    </tr>   
+
+
+
+        
   </tbody>
   </table>
 </details>

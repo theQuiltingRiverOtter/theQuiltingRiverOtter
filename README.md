@@ -99,7 +99,7 @@
       <td> WIP: Blackjack game built to practice OOP, will include further card and dice games at later date </td>
     </tr>   
    <tr>
-      <td><b><a href="">Poetry Memorization - Python Console Application</a></b></td>
+      <td><b><a href="https://github.com/theQuiltingRiverOtter/poetry-memorization-py">Poetry Memorization - Python Console Application</a></b></td>
       <td></td>
       <td>Python</td>
       <td>Poetry memorization built to practice regex, files, and classes</td>

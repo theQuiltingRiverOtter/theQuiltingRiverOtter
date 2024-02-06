@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GYW1mlH5CRoAAAAi/gabby-knitting.gif">
 
 ## I'm an aspiring web developer, veteran, and mother
-- 📓 I'm currently working on a full-stack [journalRPG](https://github.com/theQuiltingRiverOtter/journalRPG) application
-- 🐍 I'm currently learning object oriented programming
-- 💻 I'm in week 1 of the Code Platoon bootcamp - Victor Platoon 
+- 📓 I'm currently working on a full-stack [poetry memorization](https://thequiltingriverotter.github.io/PoetryMemorization/) application
+- 🐍 I'm currently learning data structures and algorithms
+- 💻 I have graduation from Code Platoon's Coding Bootcamp 
 - 🤝 I'm looking to collaborate with other content creators
-- 📆 2023 Goals: Contribute to my first open source project
+- 📆 2024 Goals: Find a remote job working in web development
 - 🧶 Fun Fact: I love to knit, crochet, and make quilts
   
 
@@ -43,6 +43,13 @@
     </tr>
   </thead>
   <tbody>
+      <tr>
+      <td><b><a href="https://github.com/theQuiltingRiverOtter/dinoStocks">DinoStocks</a> </b></td>
+      <td>Simulated Stock Market Game</a></td>
+      <td> Django, React</td>
+      <td> This project was built in collaboration with fellow students. It's goal is to help users learn about the stock market by 
+      using dinosaurs in place of stocks to make the subject more engaging.</td>
+    </tr>
     <tr>
       <td><b><a href="https://github.com/theQuiltingRiverOtter/Chinese-Flashcards">Chinese Flash Card</a> </b></td>
       <td><a href="https://thequiltingriverotter.github.io/Chinese-Flashcards/">Chinese Flash Cards</a></td>
@@ -51,10 +58,10 @@
         languages that use characters such as Chinese or Japanse</td>
     </tr>
      <tr>
-      <td><b><a href="https://github.com/theQuiltingRiverOtter/journalRPG">Full Stack Journal RPG </a>  </b></td>
-      <td>Not deployed yet, here is example site without back-end<a href="https://thequiltingriverotter.github.io/AloneAmongTheStars/">Alone Among the Stars</a></td>
-      <td> Express, EJS, Material Framework, Javascript</td>
-      <td> WIP: This application is intended to provide prompts for different journaling RPGs. In the end, it should have several games, log-in functions, and back-end storage</td>
+      <td><b><a href="https://github.com/theQuiltingRiverOtter/journal-rpg">Full Stack Journal RPG </a>  </b></td>
+      <td><a href="http://18.116.71.64/">Quill Quest</a></td>
+      <td> Django, React, Bootstrap</td>
+      <td>This application is intended to provide prompts for different journaling RPGs. In the end, it should have several games.</td>
     </tr>
      <tr>
       <td><b><a href="https://github.com/theQuiltingRiverOtter/mathMessage">mathMessage</a>  </b></td>

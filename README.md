@@ -6,7 +6,7 @@
 ## I'm an aspiring web developer, veteran, and mother
 - 📓 I'm currently working on a full-stack [poetry memorization](https://thequiltingriverotter.github.io/PoetryMemorization/) application
 - 🐍 I'm currently learning data structures and algorithms
-- 💻 I have graduation from Code Platoon's Coding Bootcamp 
+- 💻 I have graduated from Code Platoon's Coding Bootcamp 
 - 🤝 I'm looking to collaborate with other content creators
 - 📆 2024 Goals: Find a remote job working in web development
 - 🧶 Fun Fact: I love to knit, crochet, and make quilts
